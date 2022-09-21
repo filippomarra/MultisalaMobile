@@ -1,0 +1,75 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+    background-image: url("grafica/dark_wall/dark_wall.png");
+    background-attachment: fixed;
+}
+
+.profilo{
+	text-align: center;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 20px;
+	font-style: normal;
+	color: antiquewhite;
+}
+
+.description{
+	padding-top: 10px;
+	margin-top: 10px;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 20px;
+	font-style: normal;
+	color: antiquewhite;
+}
+
+.mod button{
+  width: 100px;
+	height: 30px;
+  margin-right: 10px;
+  border: none;
+  background-color: #f3f3f3;
+  font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 16px;
+	color:#111;
+  cursor: pointer;
+}
+
+.mod select{
+  width: 100px;
+  height: 30px;
+  padding-left: 10px ;
+  margin-right: 10px;
+  border: none;
+  background-color: #ccc;
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 16px;
+  color:#111;
+  line-height: 30px;
+}
+
+.mod a{
+  width: 140px;
+  height: 30px;
+  margin-right: 10px;
+  border: none;
+  background-color: #f3f3f3;
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 16px;
+  text-align: center;
+  text-decoration: none;
+  color:#111;
+  cursor: pointer;
+}
+
+#prenotazione button{
+  width: 100px;
+  height: 30px;
+  margin-right: 10px;
+  border: none;
+  background-color: #f3f3f3;
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 16px;
+  color:#111;
+  cursor: pointer;
+}

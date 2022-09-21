@@ -1,0 +1,55 @@
+.register{
+	text-align: center;
+	padding-top: 10px;
+}
+.register p{
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 18px;
+	color:antiquewhite;
+}
+.register label{
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 16px;
+	color:antiquewhite;
+	width: 200px;
+    padding: 10px 0;
+}
+.register input{
+	width: 200px;
+	height: 30px;
+	padding: 10px 10px;
+	margin-right: 10px;
+	border: none;
+	background-color: #ccc;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 16px;
+	color:#111;
+	line-height: 30px;
+}
+.register button{
+	width: 140px;
+	height: 30px;
+    margin-right: 10px;
+    border: none;
+    background-color: #f3f3f3;
+    font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 16px;
+	color:#111;
+    cursor: pointer;
+}
+.register button:hover{
+	background-color: #ccc;
+}
+
+.register select{
+	width: 200px;
+	height: 30px;
+	padding-left: 10px ;
+	margin-right: 10px;
+	border: none;
+	background-color: #ccc;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 16px;
+	color:#111;
+	line-height: 30px;
+}

@@ -1,0 +1,15 @@
+#realButton{
+	background: url('qr_icon.svg');
+	width:100px;
+	height:100px;
+	cursor: pointer;
+	vertical-align: middle;
+}
+
+#hiddenUpload{
+	width: 0px;
+	height: 0px;
+	opacity: 0;
+	cursor: pointer;
+	vertical-align: middle;
+}

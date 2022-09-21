@@ -1,0 +1,16 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.info{
+	color: antiquewhite;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 15px;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  margin-bottom: 100px;
+}

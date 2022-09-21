@@ -1,0 +1,22 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/* -- SALE & LOCANDINE --*/
+
+.SALA{
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 40px;
+	color: antiquewhite;
+	position:relative;
+	left:5%;
+}
+
+.text_area{
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 15px;
+	font-style:normal;
+	color: antiquewhite;
+	text-align: center;
+}
+
+

@@ -1,0 +1,96 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+html, body{
+	height: 100%;
+}
+.titolo img{
+	width: 100%;
+	height: 100%;
+}
+
+.navbar-default{
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-style: normal;
+	color:antiquewhite; 
+}
+
+.nav-login {
+	float:right;
+}
+
+.nav-login form{
+	float:left;
+	padding-top:10px;
+}
+
+.nav-login label{
+	float:left;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	color:antiquewhite;
+	line-height: 30px;
+}
+
+a{
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-style: normal;
+	color:antiquewhite;
+	line-height: 30px;
+	cursor: pointer;
+}
+
+a:hover{
+	color: #ccc;
+	text-decoration:none;
+	cursor: pointer;
+}
+
+.nav-login input{
+	float:left;
+	width: 140px;
+	height: 30px;
+	padding: 0px 10px;
+	margin-right: 10px;
+	border: none;
+	background-color: #ccc;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	color:#111;
+	line-height: 30px;
+}
+
+.nav-login button{
+	float:left;
+	width: 60px;
+	height: 30px;
+    margin-right: 10px;
+    border: none;
+    background-color: #f3f3f3;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 14px;
+    color: #111;
+    cursor: pointer;
+}
+.nav-login button:hover{
+	background-color: #ccc;
+}
+
+.container{
+	min-height: 100%;
+}
+.main{
+	overflow: auto;
+	padding-bottom: 100px;
+}
+
+@media (min-width:768px)
+{ .footer{
+	position:absolute;
+	bottom:-10%;
+	width:100%;
+		}
+}

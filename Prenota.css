@@ -1,0 +1,58 @@
+.description{
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-style: normal;
+	font-size: 15px;
+	color: antiquewhite;
+}
+.locandina{
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-style: normal;
+	font-size: 20px;
+	color: antiquewhite;	
+}
+.titolo{
+	text-align: center;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-style: normal;
+	font-size: 20px;
+	color: antiquewhite;
+}
+
+/*.info{
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-style: normal;
+	font-size: 15px;
+	color: antiquewhite;
+}*/
+
+.ora{
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-style: normal;
+	font-size: 15px;
+	color: antiquewhite;
+}
+
+a:link, a:visited, a:active{
+	text-decoration: none;
+	color: antiquewhite;
+	cursor: pointer;
+}
+a:hover{
+	text-decoration: none;
+	color: #ccc;
+	cursor: pointer;
+}
+
+button {
+	border: none;
+	background-color: #f3f3f3;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 14px;
+    color: #111;
+    cursor: pointer;
+}
+
+button:hover{
+	background-color: #ccc;
+}
+

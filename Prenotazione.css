@@ -1,0 +1,43 @@
+.descrizione{
+  font-family: Open Sans Condensed, sans-serif;
+  font-style: normal;
+  font-size: 20 px;
+  color: antiquewhite;
+}
+
+.descrizione h1{
+  font-family: 'Open Sans Condensed', sans-serif; 
+  text-align: center; 
+  color: antiquewhite; 
+  position:relative;
+}
+
+.descrizione button{
+  font-family: Open Sans Condensed, sans-serif;
+  font-style: normal;
+  font-size: 20 px;
+  background-color: none;
+  color: black;
+  width: 140px;
+	height: 30px;
+}
+
+.descrizione input{
+  font-family: Open Sans Condensed, sans-serif;
+  font-style: normal;
+  font-size: 20 px;
+  background-color: none;
+  color: black;
+  width: 140px;
+	height: 30px;
+}
+
+.descrizione select{
+  font-family: Open Sans Condensed, sans-serif;
+  font-style: normal;
+  font-size: 20 px;
+  background-color: none;
+  color: black;
+  width: 140px;
+	height: 30px;
+}

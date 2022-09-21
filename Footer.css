@@ -1,0 +1,22 @@
+.footer {
+  position:relative;
+  margin-top: -100px;
+  clear: both;
+  height: 100px;
+  background-color: #333333;
+}
+
+.footer .text-muted{
+  text-align: center;
+  font-size: 15px;
+  font-family: 'Open Sans Condensed', sans-serif;
+  color: antiquewhite;
+  margin: 20px 0;
+}
+.mail{
+  	font-family: 'Open Sans Condensed', sans-serif;
+	color: antiquewhite;
+}
+.mail :hover{
+	text-decoration:none;
+}
